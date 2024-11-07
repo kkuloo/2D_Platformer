@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Fruit : MonoBehaviour
 {
-    public float timeAdd = 5;
+    public float timeAdd = 4;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
